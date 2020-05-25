@@ -40,7 +40,7 @@ create table usuarios_seguidores (
 After all these steps were done, you can start to try and use the project.
 
 *Image inside the home page with feed and logged in user*
-<img src="https://imgur.com/a/NEel8vq">
+<img src="/imagens/twitter.png">
 
 ## FEATURES :star:
 
