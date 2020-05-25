@@ -23,7 +23,7 @@ create table usuarios (
     senha varchar(32) not null
 );
 
-create table tweets (
+create table tweet (
 	id_tweet int not null primary key AUTO_INCREMENT,
     id_usuario int not null,
     tweet varchar(140) not null,
