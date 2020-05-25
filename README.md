@@ -4,7 +4,7 @@ Last challenge on this project was to make a delete button to the current logged
 current TWEETS and FOLLOWERS, also it uses md5 cryptography by PHP.
 
 
-## Para utilizar o projeto basta seguir :bulb:
+## Install and creating database for testing :bulb:
 
 - Download the project files using git clone or download zip
 
@@ -39,6 +39,8 @@ create table usuarios_seguidores (
 
 After all these steps were done, you can start to try and use the project.
 
+*Image inside the home page with feed and logged in user*
+<img src="https://imgur.com/a/NEel8vq">
 
 ## FEATURES :star:
 
