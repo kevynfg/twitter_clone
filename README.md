@@ -3,17 +3,18 @@ Experimental project related to a programming course from Udemy to practice some
 Last challenge on this project was to make a delete button to the current logged in user only. And auto update on the interface about
 current TWEETS and FOLLOWERS, also it uses md5 cryptography by PHP.
 
-:bulb: # Para utilizar o projeto basta seguir:
+:bulb:
+## *Para utilizar o projeto basta seguir
 
--Download the project files using git clone or download zip
+- Download the project files using git clone or download zip
 
--Install Xampp and initialize Apache and MySQL.
+- Install Xampp and initialize Apache and MySQL.
 
--Go to your explorer folders 'Xampp/htdocs' and paste twitter_clone inside it.
+- Go to your explorer folders 'Xampp/htdocs' and paste twitter_clone inside it.
 
--On your web browser, try localhost/phpmyadmin. After getting to the phpmyadmin page, you must create twitter_clone database.
+- On your web browser, try localhost/phpmyadmin. After getting to the phpmyadmin page, you must create twitter_clone database.
 
--After you create it's database, create these following tables:
+- After you create it's database, create these following tables:
 
 create table usuarios (
     id int not null PRIMARY KEY AUTO_INCREMENT,
@@ -36,16 +37,17 @@ create table usuarios_seguidores (
     data_registro datetime default CURRENT_TIMESTAMP
 );
 
-*After all these steps were done, you can start to try and use the project.
+After all these steps were done, you can start to try and use the project.
 
-:star: # FEATURES
+:star:
+## *FEATURES
 
--register new user
--tweet
--follow people
--unfollow
--tweet feed
--delete tweet
+- register new user
+- tweet
+- follow people
+- unfollow
+- tweet feed
+- delete tweet
 
 
 Made by Kevyn :metal:
