@@ -3,8 +3,8 @@ Experimental project related to a programming course from Udemy to practice some
 Last challenge on this project was to make a delete button to the current logged in user only. And auto update on the interface about
 current TWEETS and FOLLOWERS, also it uses md5 cryptography by PHP.
 
-:bulb:
-## *Para utilizar o projeto basta seguir
+
+## Para utilizar o projeto basta seguir :bulb:
 
 - Download the project files using git clone or download zip
 
@@ -39,8 +39,8 @@ create table usuarios_seguidores (
 
 After all these steps were done, you can start to try and use the project.
 
-:star:
-## *FEATURES
+
+## FEATURES :star:
 
 - register new user
 - tweet
