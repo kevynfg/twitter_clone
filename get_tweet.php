@@ -39,13 +39,11 @@
             //condição simples verificando se o ID logado é o ID do post
             //se sim ele faz display do button DELETE
             if($registro['id'] == $id_usuario){
-            echo '<button type="button" "name="id_delete" id="btn_deletar_'.$registro['id_tweet'].'" style="display: block" class="btn btn-default btn_deletar" data-id_tweet="' . $registro['id_tweet'] . '">Deletar</button>';
+                echo '<button type="button" "name="id_delete" id="btn_deletar_'.$registro['id_tweet'].'" style="display: block" class="btn btn-default btn_deletar" data-id_tweet="' . $registro['id_tweet'] . '">Deletar</button>';
             } else {
                 echo '<button type="button" "name="id_delete" id="btn_deletar_'.$registro['id_tweet'].'" style="display: none" class="btn btn-default btn_deletar" data-id_tweet="' . $registro['id_tweet'] . '">Deletar</button>';
             }
-
         echo '</a>';
-        
     }   
     }else {
     
