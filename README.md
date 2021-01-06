@@ -41,10 +41,10 @@ After all these steps were done, you can start to try and use the project.
 
 **Image inside the home page with feed and logged in user**
 
-<img src="/imagens/twitter.png">
-![Register form](https://media.giphy.com/media/V5FMEY4LEwKAljBrMK/giphy.gif)
-![Login form](https://media.giphy.com/media/Uvqsa3KgUdlmRgWeqI/giphy.gif)
-![Index page](https://media.giphy.com/media/vmbutuIBN99YtY4KyQ/giphy.gif)
+<img src="/imagens/twitter.png"> 
+<img src="https://media.giphy.com/media/V5FMEY4LEwKAljBrMK/giphy.gif" width="120px" height="120px" /> 
+<img src="https://media.giphy.com/media/Uvqsa3KgUdlmRgWeqI/giphy.gif" width="120px" height="120px" /> 
+<img src="https://media.giphy.com/media/vmbutuIBN99YtY4KyQ/giphy.gif" width="120px" height="120px" /> 
 
 ## FEATURES :star:
 
